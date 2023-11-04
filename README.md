@@ -9,4 +9,6 @@ Algorithms covered:
 2. Logistic Regression
 3. Support Vector Machine (SVM)
 4. Decision Trees & Random Forest
-5. Dimensionality Reduction (PCA, SVD, Auto-Encoder)
+5. Locality Sensitive Hashing
+6. K Nearest Neighbors (Classifiers & Regressor)
+7. Dimensionality Reduction (PCA, SVD, Auto-Encoder)

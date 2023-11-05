@@ -11,4 +11,5 @@ Algorithms covered:
 4. Decision Trees & Random Forest
 5. Locality Sensitive Hashing - Random projection
 6. K Nearest Neighbors (Classifiers & Regressor)
-7. Dimensionality Reduction (PCA, LDA, Auto-Encoder)
+7. Dimensionality Reduction (PCA, LDA, Auto-Encoder, CCA)
+8. Clustering (K-Means Clustering)

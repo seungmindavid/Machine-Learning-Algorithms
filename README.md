@@ -13,3 +13,6 @@ Algorithms covered:
 6. K Nearest Neighbors (Classifiers & Regressor)
 7. Dimensionality Reduction (PCA, LDA, Auto-Encoder, CCA)
 8. Clustering (K-Means Clustering)
+9. Gaussian Mixture Models (GMM), Expectation Maximization (EM) Algorithms
+10. Generative Modeling
+11. Deep Learning

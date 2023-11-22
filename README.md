@@ -14,5 +14,7 @@ Algorithms covered:
 7. Dimensionality Reduction (PCA, LDA, Auto-Encoder, CCA)
 8. Clustering (K-Means Clustering)
 9. Gaussian Mixture Models (GMM), Expectation Maximization (EM) Algorithms
-10. Generative Modeling
-11. Deep Learning
+10. Spectral Clustering
+11. Generative Modeling (GAN)
+12. Diffusion Model
+13. Deep Learning

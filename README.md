@@ -18,3 +18,4 @@ Algorithms covered:
 11. Generative Modeling (GAN)
 12. Diffusion Model
 13. Deep Learning
+14. Reinforcement Learning

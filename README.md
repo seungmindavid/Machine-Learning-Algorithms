@@ -8,14 +8,13 @@ Algorithms covered:
 1. Linear & Polynomial Regression 
 2. Logistic Regression
 3. Support Vector Machine (SVM)
-4. Decision Trees & Random Forest
-5. Locality Sensitive Hashing - Random projection
-6. K Nearest Neighbors (Classifiers & Regressor)
-7. Dimensionality Reduction (PCA, LDA, Auto-Encoder, CCA)
-8. Clustering (K-Means Clustering)
-9. Gaussian Mixture Models (GMM), Expectation Maximization (EM) Algorithms
-10. Spectral Clustering
-11. Generative Modeling (GAN)
-12. Diffusion Model
-13. Deep Learning
-14. Reinforcement Learning
+4. Locality Sensitive Hashing - Random projection
+5. K Nearest Neighbors (Classifiers & Regressor)
+6. Dimensionality Reduction (PCA, LDA, Auto-Encoder, CCA)
+7. Clustering (K-Means Clustering)
+8. Gaussian Mixture Models (GMM), Expectation Maximization (EM) Algorithms
+9. Spectral Clustering
+10. Generative Modeling (GAN)
+11. Diffusion Model
+12. Deep Learning
+13. Reinforcement Learning
